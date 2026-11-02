@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/oip0e5dclgbk18u6z6gk0vd6)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> An OLED display for the 4th week of Half-Life
+> An OLED display with classic games for the 4th week of Half-Life, controlled by a Raspberry Pi Pico.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
